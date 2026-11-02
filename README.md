@@ -14,4 +14,5 @@ copying them, redistributing them or running them anywhere else is not permitted
 Other files keep their own terms: `fonts/unifont-heb.woff` is a subset of GNU Unifont (SIL Open
 Font License 1.1 / GNU GPL 2+ with the font embedding exception, notices inside the file);
 `samples/NUMFOOT.PRG` is a sample script that comes with Tag; the code editor (Monaco, MIT) is
-loaded from jsDelivr, not kept here.
+loaded from jsDelivr, and the editor's fonts other than Consolas from Google Fonts (SIL Open Font
+License 1.1), not kept here.
