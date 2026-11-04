@@ -30,7 +30,7 @@ In Tag, OK writes WINPDF.INI in the Tag folder.`,indexDoc:`
   <li><b>A debugger</b>: run a .PRG in the running Tag (TagXP) and step through it, with breakpoints and the values of variables.</li>
 </ul>
 <h2>Install</h2>
-<p>Install <code>vsc-tagscript-0.1.0.vsix</code> in VS Code: Extensions \u203A \u2026 \u203A Install from VSIX.</p>
+<p>Install <code>vsc-tagscript-0.1.1.vsix</code> in VS Code: Extensions \u203A \u2026 \u203A Install from VSIX.</p>
 <div class="note">The download is coming soon.</div>
 `,nppDoc:`
 <h1>Tag script for Notepad++</h1>
@@ -122,7 +122,7 @@ WINPDF.DLL, \u05D4\u05DE\u05D3\u05E4\u05E1\u05EA "Tag PDF" \u05D5\u05E7\u05D5\u0
   <li><b>\u05D3\u05D9\u05D1\u05D0\u05D2\u05E8</b>: \u05D4\u05E8\u05E6\u05EA PRG \u05D1\u05EA\u05D2 \u05E9\u05E8\u05E5 (TagXP) \u05D5\u05DE\u05E2\u05D1\u05E8 \u05E2\u05DC\u05D9\u05D5 \u05E6\u05E2\u05D3 \u05D0\u05D7\u05E8 \u05E6\u05E2\u05D3, \u05E2\u05DD \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA \u05E2\u05E6\u05D9\u05E8\u05D4 \u05D5\u05E2\u05E8\u05DB\u05D9 \u05D4\u05DE\u05E9\u05EA\u05E0\u05D9\u05DD.</li>
 </ul>
 <h2>\u05D4\u05EA\u05E7\u05E0\u05D4</h2>
-<p>\u05D4\u05EA\u05E7\u05D9\u05E0\u05D5 \u05D0\u05EA <code>vsc-tagscript-0.1.0.vsix</code> \u05D1-VS Code: Extensions \u203A \u2026 \u203A Install from VSIX.</p>
+<p>\u05D4\u05EA\u05E7\u05D9\u05E0\u05D5 \u05D0\u05EA <code>vsc-tagscript-0.1.1.vsix</code> \u05D1-VS Code: Extensions \u203A \u2026 \u203A Install from VSIX.</p>
 <div class="note">\u05D4\u05D4\u05D5\u05E8\u05D3\u05D4 \u05EA\u05D2\u05D9\u05E2 \u05D1\u05E7\u05E8\u05D5\u05D1.</div>
 `,nppDoc:`
 <h1>\u05E1\u05E7\u05E8\u05D9\u05E4\u05D8 \u05EA\u05D2 \u05DC-Notepad++</h1>
